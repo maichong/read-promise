@@ -1,0 +1,25 @@
+{
+  "name": "read-promise",
+  "version": "1.0.0",
+  "description": "Promise version of read",
+  "main": "index.js",
+  "dependencies": {
+    "read": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/read-promise.git"
+  },
+  "author": {
+    "email": "liang@maichong.it",
+    "name": "liang",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/read-promise/issues"
+  },
+  "homepage": "https://github.com/maichong/read-promise#readme"
+}
