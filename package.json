@@ -1,13 +1,9 @@
 {
   "name": "read-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise version of read",
   "main": "index.js",
-  "dependencies": {
-    "read": "^1.0.7"
-  },
-  "devDependencies": {},
-  "scripts": {},
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maichong/read-promise.git"
@@ -21,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/maichong/read-promise/issues"
   },
-  "homepage": "https://github.com/maichong/read-promise#readme"
+  "homepage": "https://github.com/maichong/read-promise#readme",
+  "dependencies": {
+    "read": "^1.0.7"
+  }
 }

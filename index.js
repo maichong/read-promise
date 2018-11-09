@@ -1,11 +1,3 @@
-/**
- * @copyright Maichong Software Ltd. 2016 http://maichong.it
- * @date 2016-03-19
- * @author Liang <liang@maichong.it>
- */
-
-'use strict';
-
 var read = require('read');
 
 function readPromise(options) {
@@ -24,4 +16,4 @@ function readPromise(options) {
   });
 }
 
-module.exports = readPromise.default = readPromise;
+module.exports = readPromise;
